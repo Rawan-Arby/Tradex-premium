@@ -1,6 +1,6 @@
 # Template 3 using HTML & CSS
 Tradex
-# Tradex Template 1
+# Tradex
 
 Welcome to **Tradex-premium**, a modern and responsive HTML/CSS-based website built to showcase my learning and skills in web development. 
 This project demonstrates effective usage of HTML, CSS, and external libraries to create a visually appealing and user-friendly website.
