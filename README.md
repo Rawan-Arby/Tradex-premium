@@ -1,12 +1,11 @@
-# Template 3 using HTML & CSS
-Tradex
+
 # Tradex
 
 Welcome to **Tradex-premium**, a modern and responsive HTML/CSS-based website built to showcase my learning and skills in web development. 
 This project demonstrates effective usage of HTML, CSS, and external libraries to create a visually appealing and user-friendly website.
 
 ## 🖥️ Preview
-- **Live Demo**: [View Website](https://rawa112.github.io/Template-3/)
+- **Live Demo**: [View Website](https://rawan-arby.github.io/Tradex-premium/)
   
 ## ✨ Features
 
